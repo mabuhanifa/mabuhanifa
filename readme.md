@@ -59,7 +59,7 @@
 <!-- ------------------Sass--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/354310/sass.svg" alt="Sass" height="30" width="30" />
 <!-- ------------------Next Js--------------- -->
-<img align="center" src="https://i.ibb.co/mz1PY7d/Opera-Snapshot-2022-11-18-231237-miro-medium-com.png" alt="Next" height="30" width="30" />
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Y0uHbCNCw05pPd9Kw9AA7I3kA4I6ZW1E5YeYaeB4Acz0W02-YJzEQiEt81w-3sFT2aE&usqp=CAU" alt="Next" height="30" width="30" />
 <!-- ----------------Docker----------------- -->
 <img align="center" src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" height="30" width="30" />
 <!-- ------------------MySQL--------------- -->
