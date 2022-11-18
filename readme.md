@@ -34,7 +34,7 @@
 <!-- ------------------Node--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/355140/node.svg" alt="React" height="30" width="30" />
 <!-- ------------------Express--------------- -->
-<img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg" alt="React" height="30" width="30" />
+<img align="center" src="https://i.ibb.co/VqC33vm/Opera-Snapshot-2022-11-18-231315-expressjs-com.png" alt="React" height="30" width="30" />
 <!-- ------------------MONGODB--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/373845/mongo.svg" alt="React" height="30" width="30" />
 <!-- ------------------Bootstrap--------------- -->
@@ -59,7 +59,7 @@
 <!-- ------------------Sass--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/354310/sass.svg" alt="Sass" height="30" width="30" />
 <!-- ------------------Next Js--------------- -->
-<img align="center" src="https://www.svgrepo.com/show/342062/next-js.svg" alt="Next" height="30" width="30" />
+<img align="center" src="https://i.ibb.co/mz1PY7d/Opera-Snapshot-2022-11-18-231237-miro-medium-com.png" alt="Next" height="30" width="30" />
 <!-- ----------------Docker----------------- -->
 <img align="center" src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" height="30" width="30" />
 <!-- ------------------MySQL--------------- -->
