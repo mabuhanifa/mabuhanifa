@@ -4,10 +4,8 @@
 [![Facebook][facebook-shield]][facebook-url]
 [![Instagram][instagram-shield]][instagram-url]
 
-<h1 align="center">Hi, I'm Mohammed Abu Hanifa</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Abu Hanifa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-- 👋 Hi, I’m Mohammed Abu Hanifa
 
 - 👀 I’m a junior MERN Stack Developer
 
@@ -32,6 +30,18 @@ mabuhanifa/mabuhanifa is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- MARKDOWN LINKS & IMAGES -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mabuhanifa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabuhanifa)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabuhanifa&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mabuhanifa)
+
+![GitHub metrics](https://metrics.lecoq.io/mabuhanifa)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mabuhanifa)
 
 [facebook-url]: https://facebook.com/shourov.hanifa
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
