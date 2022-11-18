@@ -86,14 +86,28 @@ mabuhanifa/mabuhanifa is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <!-- MARKDOWN LINKS & IMAGES -->
+---
+
+<p align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="mabuhanifa :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=mabuhanifa&theme=black-white&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="mabuhanifa :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabuhanifa&langs_count=14&theme=black-white&layout=compact&hide=html"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mabuhanifa&theme=black-white&hide_border=true"></td>
+     </tr>
+   </table>
+</p>
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mabuhanifa)
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mabuhanifa)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabuhanifa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabuhanifa&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabuhanifa&show_icons=true) -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mabuhanifa)
 
