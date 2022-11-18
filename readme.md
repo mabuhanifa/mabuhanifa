@@ -112,7 +112,9 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mabuhanifa)
 
-![GitHub metrics](https://metrics.lecoq.io/mabuhanifa)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/mabuhanifa)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mabuhanifa) -->
 
 [facebook-url]: https://facebook.com/shourov.hanifa
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
