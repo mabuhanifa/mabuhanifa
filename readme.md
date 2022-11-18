@@ -75,11 +75,12 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+<div align="center">
 <a href="https://www.linkedin.com/in/mohammed-abuhanifa-4611b515b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="@mohabuhanifa" height="30" width="30" /></a>
 <a href="https://twitter.com/@mohabuhanifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohabuhanifa" height="30" width="30" /></a>
 <a href="https://facebook.com/shourov.hanifa" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="@mohabuhanifa" height="30" width="30" /></a>
 <a href="https://www.instagram.com/shourovahmd" target="blank"><img align="center" src="https://www.svgrepo.com/show/157806/instagram.svg" alt="@mohabuhanifa" height="30" width="30" /></a>
-
+</div>
 <!---
 mabuhanifa/mabuhanifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
