@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **moh.abuhanifa@gmail.com**
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
 <!-- ------------------HTML--------------- -->
@@ -69,6 +71,8 @@
 <!-- ------------------NGiNX--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="NGiNX" height="30" width="30" />
 </div>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/mohammed-abuhanifa-4611b515b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="@mohabuhanifa" height="30" width="30" /></a>
