@@ -5,7 +5,7 @@
 [![Instagram][instagram-shield]][instagram-url]
 
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hanifa</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A MERN stack developer from Bangladesh</h3>
 
 - 👀 I’m a junior MERN Stack Developer
 
