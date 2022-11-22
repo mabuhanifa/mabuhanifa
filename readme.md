@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react,node,express**
 
-- 📫 How to reach me **moh.abuhanifa@gmail.com**
+- 📫 Mail me @ **moh.abuhanifa@gmail.com**
 
 ---
 
