@@ -98,7 +98,6 @@ You can click the Preview link to take a look at your changes.
      </tr>
      <tr>
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mabuhanifa&theme=black-white&hide_border=true"></td>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mabuhanifa&theme=black-white&hide_border=true"></td>
      </tr>
    </table>
 </p>
