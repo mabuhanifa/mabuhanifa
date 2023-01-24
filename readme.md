@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NEXTjs**
 
-- 👨‍💻 All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.netlify.app)
+- 👨‍💻 All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.vercel.app)
 
 - 💬 Ask me about **react,node,express**
 
