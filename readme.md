@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hanifa</h1>
 <h3 align="center">A MERN stack developer from Bangladesh</h3>
 
-- 👀 I’m a junior MERN Stack Developer
+- 👀 I’m a junior MERN Stack Developer.
 
 - 🌱 I’m currently learning **NEXTjs**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://m-abuhanifa.netlify.app](https://m-abuhanifa.netlify.app)
 
-- 💬 Ask me about **react,node,express**
+- 💬 Ask me about **react, node, express**
 
 - 📫 Mail me @ **moh.abuhanifa@gmail.com**
 
