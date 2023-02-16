@@ -67,7 +67,7 @@
 <!-- ------------------NPM--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/373933/npm.svg" alt="NPM" height="30" width="30" />
 <!-- ------------------NGiNX--------------- -->
-<img align="center" src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="NGiNX" height="30" width="30" />
+<!-- <img align="center" src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="NGiNX" height="30" width="30" /> -->
 </div>
 
 ---
