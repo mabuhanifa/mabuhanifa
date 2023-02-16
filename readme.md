@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mabuhanifa&show_icons=true) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mabuhanifa)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mabuhanifa) -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/mabuhanifa)
 
