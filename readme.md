@@ -74,7 +74,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="https://www.linkedin.com/in/mohammed-abuhanifa-4611b515b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="@mohabuhanifa" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/mohammed-abu-hanifa-4611b515b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="@mohabuhanifa" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/@mohabuhanifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohabuhanifa" height="30" width="30" /></a>&nbsp;
 <a href="https://facebook.com/shourov.hanifa" target="blank"><img align="center" src="https://www.svgrepo.com/show/111203/facebook.svg" alt="@mohabuhanifa" height="30" width="30" /></a>&nbsp;
 <a href="https://www.instagram.com/shourovahmd" target="blank"><img align="center" src="https://www.svgrepo.com/show/157806/instagram.svg" alt="@mohabuhanifa" height="30" width="30" /></a>&nbsp;
@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 [facebook-url]: https://facebook.com/shourov.hanifa
 [facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/mohammed-abuhanifa-4611b515b/
+[linkedin-url]: https://www.linkedin.com/in/mohammed-abu-hanifa-4611b515b/
 [mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-moh.abuhanifa@gmail.com-lightgray
 [mail-url]: mailto:moh.abuhanifa@gmail.com
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
