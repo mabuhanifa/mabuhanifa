@@ -36,7 +36,7 @@
 <!-- ------------------MONGODB--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/373845/mongo.svg" alt="React" height="30" width="30" />
 <!-- ------------------Bootstrap--------------- -->
-<img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.svg" alt="React" height="30" width="30" />
+<img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.svg" alt="Bootstrap" height="30" width="30" />
 <!-- ------------------Tailwind--------------- -->
 <img align="center" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="React" height="30" width="30" />
 <!-- ------------------FireBase--------------- -->
