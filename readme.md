@@ -9,7 +9,7 @@
 
 - 👀 I’m a junior MERN Stack Developer.
 
-- 🌱 I’m currently learning **NEXTjs, Prisma, TRPC**
+- 🌱 I’m currently learning **NESTjs, GraphQL, Docker**
 
 - 👨‍💻 All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.vercel.app)
 
