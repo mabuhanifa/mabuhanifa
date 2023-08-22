@@ -9,7 +9,7 @@
 
 - 👀 I’m a junior MERN Stack Developer.
 
-- 🌱 I’m currently learning **NESTjs, GraphQL, Docker**
+- 🌱 I’m currently learning **NestJS, GraphQL, Docker**
 
 - 👨‍💻 All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.vercel.app)
 
