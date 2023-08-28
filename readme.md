@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hanifa</h1>
 <h3 align="center">A MERN stack developer from Bangladesh</h3>
 
-- 👀 I’m a junior MERN Stack Developer.
+- 👀 I’m a junior Back End Developer.
 
 - 🌱 I’m currently learning **NestJS, GraphQL, Docker**
 
