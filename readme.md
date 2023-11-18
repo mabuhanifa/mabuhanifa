@@ -7,15 +7,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hanifa</h1>
 <h3 align="center">A MERN stack developer from Bangladesh</h3>
 
-- 👀 I’m a junior Back End Developer.
+-  I’m working as a junior Back End Developer.
 
-- 🌱 I’m currently learning **NestJS, GraphQL, Docker**
+-  I’m currently learning **NestJS, GraphQL, Docker**
 
-- 👨‍💻 All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.vercel.app)
+-  All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.vercel.app)
 
-- 💬 Ask me about **react, node, express**
+-  Ask me about **react, node, express**
 
-- 📫 Mail me @ **moh.abuhanifa@gmail.com**
+-  Mail me @ **moh.abuhanifa@gmail.com**
 
 ---
 
