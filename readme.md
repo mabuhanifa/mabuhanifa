@@ -9,7 +9,7 @@
 
 -  I’m working as a junior Back End Developer.
 
--  I’m currently learning **Docker,NestJS,DSA**
+-  I’m currently learning **Docker, Linux, NestJS**
 
 -  All of my projects are available at [https://m-abuhanifa.vercel.app](https://m-abuhanifa.vercel.app)
 
